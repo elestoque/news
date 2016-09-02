@@ -8077,3 +8077,7 @@ button.close {
         display: none!important
     }
 }
+
+#capt {
+    font-size: 1px;
+}
